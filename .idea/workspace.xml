@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0dca49e-286d-4b14-ac0a-34644c817792" name="Default Changelist" comment="All the programs numbered and sorted properly">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Dr_S_Gowrishankar.xml" afterDir="false" />
+    <list default="true" id="f0dca49e-286d-4b14-ac0a-34644c817792" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Program_3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Program_3-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_4.ipynb" afterDir="false" />
     </list>
@@ -123,6 +121,8 @@
       <workItem from="1565436580469" duration="923000" />
       <workItem from="1565439499283" duration="1041000" />
       <workItem from="1565447087699" duration="7806000" />
+      <workItem from="1565461650342" duration="165000" />
+      <workItem from="1565462344217" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="Program 1 finalized">
       <created>1565289128426</created>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565289234049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Program 3 finalized">
+      <created>1565461756036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565461756036</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,63 +167,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Program 1 finalized" />
     <MESSAGE value="Images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images added" />
+    <MESSAGE value="Program 3 finalized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program 3 finalized" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/del.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="list_of_numbers[left]" language="Python" />
