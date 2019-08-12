@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0dca49e-286d-4b14-ac0a-34644c817792" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Program_3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Program_3-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Program_4.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f0dca49e-286d-4b14-ac0a-34644c817792" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,7 @@
   <component name="ProjectId" id="1OT4V6CRI8kYvMYiaKSY3G7YMVz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -123,6 +119,7 @@
       <workItem from="1565447087699" duration="7806000" />
       <workItem from="1565461650342" duration="165000" />
       <workItem from="1565462344217" duration="829000" />
+      <workItem from="1565469166791" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="Program 1 finalized">
       <created>1565289128426</created>
@@ -145,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565461756036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Program 4 finalized">
+      <created>1565469212970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565469212970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +172,8 @@
     <MESSAGE value="Program 1 finalized" />
     <MESSAGE value="Images added" />
     <MESSAGE value="Program 3 finalized" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program 3 finalized" />
+    <MESSAGE value="Program 4 finalized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program 4 finalized" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
