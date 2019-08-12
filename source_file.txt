@@ -1,4 +1,9 @@
-Bengaluru
-Mysuru
-Mangaluru
-Vijayapura
+bengaluru
+mysuru
+tumakuru
+mangaluru
+shivamogga
+hassan
+mandya
+vijayapura
+bidar
